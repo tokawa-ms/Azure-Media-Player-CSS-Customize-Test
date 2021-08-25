@@ -1,4 +1,9 @@
 @charset "utf-8";
 .azuremediaplayer .vjs-tech{
-  height: 80%;
+  height: 100%;
+}
+
+/*字幕領域のフォントサイズを 15px に設定*/
+.amp-default-skin .vjs-text-track-display>div>div {
+  font-size: 15px!important;
 }

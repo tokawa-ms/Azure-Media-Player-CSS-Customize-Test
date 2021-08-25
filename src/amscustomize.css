@@ -5,5 +5,5 @@
 
 /*字幕領域のフォントサイズを 15px に設定*/
 .amp-default-skin .vjs-text-track-display>div>div {
-  font-size: 15px!important;
+  font-size: 15px !important;
 }
